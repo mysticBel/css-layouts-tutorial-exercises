@@ -1,3 +1,10 @@
-body{
-    background:blue;
+body {
+	background: blue;
+	display: flex;
+}
+
+.myDiv {
+	width: 400px;
+	background-color: rgb(175, 175, 175);
+	margin: auto;
 }
